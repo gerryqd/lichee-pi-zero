@@ -130,3 +130,7 @@ size的大小是字体大小*10，也就是12pt字体的size是120，但是我�
 --------------------------------------------
 
 http://doc.qt.io/qt-5/qt-embedded-fonts.html
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `QT 使用交流帖 <http://bbs.lichee.pro/d/16-qt>`_ 提问或分享经验

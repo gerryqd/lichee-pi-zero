@@ -239,3 +239,7 @@ mjpeg-streamer
     [-n | --nocommands ]....: disable execution of commands
     ---------------------------------------------------------------
     output_init() return value signals to exit
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `开发小技巧交流帖 <http://bbs.lichee.pro/d/15-->`_ 提问或分享经验

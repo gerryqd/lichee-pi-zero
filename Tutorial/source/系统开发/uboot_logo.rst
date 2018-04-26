@@ -140,3 +140,7 @@ linux开机画面更换
     //ABING
     //      if (err)
     //              soft_cursor(info, &cursor);
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `Uboot编译交流帖 <http://bbs.lichee.pro/d/10-uboot>`_ 提问或分享经验

@@ -267,3 +267,7 @@ atmel触摸屏驱动分析
 
         return IRQ_HANDLED;
     }
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `触摸屏配置交流帖 <http://bbs.lichee.pro/d/20-->`_ 提问或分享经验

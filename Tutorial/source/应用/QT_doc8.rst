@@ -70,3 +70,7 @@ Qt的嵌入式版本本身就支持feature裁剪，我们可以充分利用这�
 - 程序改为release
 
 实测减少有限
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `QT 使用交流帖 <http://bbs.lichee.pro/d/16-qt>`_ 提问或分享经验

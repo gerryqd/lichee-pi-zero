@@ -15,3 +15,5 @@ SPI Flash 杂谈
    JFFS2文件系统简介 <SPI_falsh_doc4>
    uboot 对SPI flash 的识别 <SPI_falsh_doc5>
    关于系统reboot <SPI_falsh_doc6>
+
+荔枝派社区上相应的讨论帖为：`SPI Flash 系统编译交流 <http://bbs.lichee.pro/d/13-spi-flash>`_

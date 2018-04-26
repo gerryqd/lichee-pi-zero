@@ -5,6 +5,8 @@ BSP内核编译
 
 本篇主要讲解编译启动BSP内核的方法。
 
+荔枝派社区上相应的讨论帖为：`BSP内核交流帖 <http://bbs.lichee.pro/d/29-bsp>`_
+
 .. toctree::
    :maxdepth: 2
 

@@ -102,4 +102,7 @@ SPL配置
    [*] Support MMC                                 支持MMC
    [*] Support power drivers                  支持电源驱动
    [*] Support serial                               支持串口
-   
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `Uboot编译交流帖 <http://bbs.lichee.pro/d/10-uboot>`_ 提问或分享经验

@@ -29,3 +29,7 @@ Python 操作GPIO
             time.sleep(0.5)
             lpi_gpio.w(6,0,1)
             time.sleep(0.5)
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `外设驱动交流帖 <http://bbs.lichee.pro/d/18-->`_ 提问或分享经验

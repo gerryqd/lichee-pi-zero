@@ -70,6 +70,10 @@ sht21 传感器使用
     cat /sys/class/hwmon/hwmon0/humidity1_input
         58872		#毫百分之1，即58.872%RH
 
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `外设驱动交流帖 <http://bbs.lichee.pro/d/18-->`_ 提问或分享经验
+
 参考文档
 -------------------------------------
 

@@ -74,3 +74,7 @@ Zero通过otg与PC共享网络
     root@Lichee:~#
     And you can execute any command on Zero via ssh.
     Zero is used as a "headless" board now.
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `开发小技巧交流帖 <http://bbs.lichee.pro/d/15-->`_ 提问或分享经验

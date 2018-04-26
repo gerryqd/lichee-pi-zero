@@ -390,3 +390,8 @@ uboot启动BSP内核
 | 再将前面编译的uImage放入第一分区。
 
    此时就可以使用主线Uboot启动bsp内核了。
+
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `BSP内核交流帖 <http://bbs.lichee.pro/d/29-bsp>`_ 提问或分享经验

@@ -315,3 +315,7 @@ eth0启动成功！
    :align: center
 
 **Ethernet驱动适配成功！**
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `外设驱动交流帖 <http://bbs.lichee.pro/d/18-->`_ 提问或分享经验

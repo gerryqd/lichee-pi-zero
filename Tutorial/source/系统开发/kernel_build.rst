@@ -33,6 +33,9 @@
    make ARCH=arm CROSS_COMPILE=arm-linux-gnueabihf- -j16
    make ARCH=arm CROSS_COMPILE=arm-linux-gnueabihf- -j16 INSTALL_MOD_PATH=out modules
    make ARCH=arm CROSS_COMPILE=arm-linux-gnueabihf- -j16 INSTALL_MOD_PATH=out modules_install
-   
+
 编译完成后，zImage在arch/arm/boot/下，驱动模块在out/下
-   
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `内核编译交流帖 <http://bbs.lichee.pro/d/11-->`_ 提问或分享经验

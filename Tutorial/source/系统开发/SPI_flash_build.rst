@@ -791,3 +791,7 @@ SPI flash下载速度约50KB/s，等待5分钟（16MB）或者10分钟（32MB）
 -----------------------------------
 
 http://blog.sina.com.cn/s/blog_5ed5a1f40100f3qq.html
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `SPI Flash 系统编译交流 <http://bbs.lichee.pro/d/13-spi-flash>`_ 提问或分享经验

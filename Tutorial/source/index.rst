@@ -10,7 +10,7 @@
 
 **联系我们：** `Q群 <https://jq.qq.com/?_wv=1027&k=5gcf90d>`_ |
 `github <https://github.com/Lichee-Pi>`_ |
-`论坛 <http://bbs.ilichee.cc>`_ |
+`论坛 <http://bbs.lichee.pro>`_ |
 `淘宝 <https://shop152705481.taobao.com/category-1266972912.htm>`_ |
 `邮箱 <mailto:zepanwucai@gmail.com>`_ | _____ **文档来源：**  `看云 <https://www.kancloud.cn/lichee/lpi0>`_
 

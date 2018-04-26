@@ -159,3 +159,7 @@ jffs2 Magic bitmask 错误
     Failed to execute /linuxrc. Attempting defaults...
     Kernel panic - not syncing: No init found. Try passing init= option to kernel. 分析：
     记得JFFS2是采用自己的ECC算法，但是在内核中又打开了S3C2410_HARDWARE_ECC 解决方案： 去掉硬件ECC
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `SPI Flash 系统编译交流 <http://bbs.lichee.pro/d/13-spi-flash>`_ 提问或分享经验

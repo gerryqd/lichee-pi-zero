@@ -33,3 +33,7 @@ qmake用于配置qtcreator
         export QT_QPA_FONTDIR=/opt/qt5.9.1-arm/lib/fonts
         export QT_QPA_GENERIC_PLUGINS=tslib:$TSLIB_TSDEVICE
 5. 拷贝编译好的基于qt的应用程序到自定义目录下
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `QT 使用交流帖 <http://bbs.lichee.pro/d/16-qt>`_ 提问或分享经验

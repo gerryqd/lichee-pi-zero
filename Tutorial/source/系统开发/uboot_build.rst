@@ -89,3 +89,7 @@ Uboot结构简介
    ``make LicheePi_Zero_defconfig``
 
 这样配置就生效了。
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `Uboot编译交流帖 <http://bbs.lichee.pro/d/10-uboot>`_ 提问或分享经验

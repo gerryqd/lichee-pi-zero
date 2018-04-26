@@ -83,3 +83,7 @@ overlayfs 顾名思义，就是一种覆盖式的文件系统。
 
     mount -n -t jffs2 /dev/mtdblock4  /overlay
     mount -n -t overlay overlayfs:/overlay -o lowerdir=/,upperdir=/overlay,workdir=/workdir /mnt
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `SPI Flash 系统编译交流 <http://bbs.lichee.pro/d/13-spi-flash>`_ 提问或分享经验

@@ -26,3 +26,7 @@ tslib是电阻式触摸屏用于校准的一个软件库，是一个开源的程
 ------------------------------------
 
 http://blog.csdn.net/hpu11/article/details/53105947
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `QT 使用交流帖 <http://bbs.lichee.pro/d/16-qt>`_ 提问或分享经验

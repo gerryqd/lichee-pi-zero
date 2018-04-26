@@ -162,3 +162,7 @@ http://v.youku.com/v_show/id_XMzM3NjY0NTU3Ng==.html
 
    PID  PPID USER     STAT   VSZ %VSZ %CPU COMMAND
    105    98 root     T    19692  35%   0% mplayer dcp1.mp4
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `点屏操作交流帖 <http://bbs.lichee.pro/d/19-->`_ 提问或分享经验

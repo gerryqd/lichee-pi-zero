@@ -103,3 +103,7 @@ atmel触摸屏中断改轮询
 	#else
 	input_report_abs(input_dev, ABS_MT_POSITION_Y, 480-finger[id].y);
 	#endif
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `触摸屏配置交流帖 <http://bbs.lichee.pro/d/20-->`_ 提问或分享经验

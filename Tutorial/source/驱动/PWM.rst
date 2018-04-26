@@ -111,3 +111,7 @@ PWM驱动在 *drivers/pwm/pwm-sun4i.c* 中。
 
         return 0;
     }   
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `外设驱动交流帖 <http://bbs.lichee.pro/d/18-->`_ 提问或分享经验

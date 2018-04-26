@@ -61,3 +61,7 @@ pll6时钟默认为600MHz，可以分出比较高的串口波特率。
     #ifndef CONFIG_DM_SERIAL
 
 剩余的就是按照原有方法修改波特率了。
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `外设驱动交流帖 <http://bbs.lichee.pro/d/18-->`_ 提问或分享经验

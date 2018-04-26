@@ -149,3 +149,7 @@ JFFS3 简介
 
 
  ---------------节选自： http://blog.csdn.net/harhy/article/details/50637488
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `SPI Flash 系统编译交流 <http://bbs.lichee.pro/d/13-spi-flash>`_ 提问或分享经验

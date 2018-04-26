@@ -193,6 +193,10 @@ mmap简单来说就是把一片物理内存空间（或者文件）映射到应�
     LD_LIBRARY_PATH=. ./test_gpio	//运行应用程序，手工指定动态库位置
     //or add libgpio.so to /etc/ld.so.conf, ldconfig	
 
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `外设驱动交流帖 <http://bbs.lichee.pro/d/18-->`_ 提问或分享经验
+
 附录
 --------------------------------
 

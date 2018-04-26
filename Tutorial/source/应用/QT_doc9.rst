@@ -47,3 +47,7 @@ Qt Embedded Linux下隐藏鼠标箭头
 ------------------------------------
 
 *src/corelib/global/qfeatures.h*
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `QT 使用交流帖 <http://bbs.lichee.pro/d/16-qt>`_ 提问或分享经验

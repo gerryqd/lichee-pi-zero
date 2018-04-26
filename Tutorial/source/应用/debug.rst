@@ -46,3 +46,7 @@ core保存位置默认为当前目录下core名字
     %t - insert UNIX time that the coredump occurred into filename 添加 core 文件生成时的 unix 时间
     %h - insert hostname where the coredump happened into filename 添加主机名
     %e - insert coredumping executable name into filename 添加命令名
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `开发小技巧交流帖 <http://bbs.lichee.pro/d/15-->`_ 提问或分享经验

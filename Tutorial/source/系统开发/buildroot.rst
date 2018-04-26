@@ -381,3 +381,6 @@ CMake-based软件包mk写法
         TARGETS+=libfoo
     endif
 
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `根文件系统编译交流帖 <http://bbs.lichee.pro/d/12-->`_ 提问或分享经验

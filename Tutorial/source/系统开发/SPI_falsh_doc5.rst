@@ -78,3 +78,7 @@ flash信息在
     #define RD_DUALIO               BIT(7)  /* use Dual IO Read */
     #define RD_FULL                 (RD_QUAD | RD_DUAL | RD_QUADIO | RD_DUALIO)
     };
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `SPI Flash 系统编译交流 <http://bbs.lichee.pro/d/13-spi-flash>`_ 提问或分享经验

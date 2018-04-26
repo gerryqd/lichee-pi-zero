@@ -205,3 +205,7 @@ card, device必须对应hdmi的声卡号和设备号,可以使用aplay -l查看�
     #. aplay -D hw:1,7  /usr/share/sounds/alsa/test.wav  "hw后的1代表声卡号,7代表设备号,需要根据aplay -l的输出来确定这两个数字"找到对应的hdmi输出口。
 
 参考 http://linux-sunxi.org/Audio_Codec
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `外设驱动交流帖 <http://bbs.lichee.pro/d/18-->`_ 提问或分享经验

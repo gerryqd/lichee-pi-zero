@@ -127,3 +127,7 @@ TF镜像烧录命令
     write_p2.sh /dev/sdX: 烧录第二分区
     write_overlay.sh /dev/sdX: 烧录overlay
     write_swap.sh /dev/sdX: 启用swap
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `Zero Imager 使用交流 <http://bbs.lichee.pro/d/14-zero-imager>`_ 提问或分享经验

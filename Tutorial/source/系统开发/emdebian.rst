@@ -131,3 +131,7 @@ emdebian根文件系统
 修改 target-rootfs/etc/ssh/sshd_config来使能root登录
 
 *PermitRootLogin yes*
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `根文件系统编译交流帖 <http://bbs.lichee.pro/d/12-->`_ 提问或分享经验

@@ -60,3 +60,7 @@ docker下载安装
    docker run -d -p 6666:22 zepan/licheepi /usr/sbin/sshd -D
 
 这样就安装并开启的容器ssh服务，只需连接主机的6666端口，以root用户，licheepi密码登录即可进行开发操作。
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `Docker使用交流帖 <http://bbs.lichee.pro/d/9-docker>`_ 提问或分享经验

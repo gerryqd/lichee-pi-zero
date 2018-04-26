@@ -84,3 +84,7 @@ http://www.filewatcher.com/_/?q=util-linux-2.13-pre7.tar.bz2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 在 *boot.scr* 中去掉tty0即可
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `开发小技巧交流帖 <http://bbs.lichee.pro/d/15-->`_ 提问或分享经验

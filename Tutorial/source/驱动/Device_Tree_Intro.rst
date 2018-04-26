@@ -588,3 +588,8 @@ sys下设备树查看
 --------------------------------------------------
 
 http://e76103db.wiz03.com/share/s/3Dogfr2DXA6Q27Og6x2QoKY92Bk9at14FABh21OAAE28lAme
+
+
+.. admonition:: 交流与答疑
+
+    对于本节内容，如有疑问，欢迎到 `设备树编写交流帖 <http://bbs.lichee.pro/d/17-->`_ 提问或分享经验

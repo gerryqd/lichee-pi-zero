@@ -3,6 +3,8 @@
 
 本节介绍各类QT操作
 
+荔枝派社区上相应的讨论帖为：`QT 使用交流帖 <http://bbs.lichee.pro/d/16-qt>`_
+
 .. toctree::
    :maxdepth: 2
 
